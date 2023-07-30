@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-tastys-dev-223918-authRole",
+      "UnauthRoleArn": "arn:aws:iam::265997075572:role/amplify-tastys-dev-223918-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::265997075572:role/amplify-tastys-dev-223918-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-tastys-dev-223918-deployment",
+      "UnauthRoleName": "amplify-tastys-dev-223918-unauthRole",
+      "StackName": "amplify-tastys-dev-223918",
+      "StackId": "arn:aws:cloudformation:eu-west-2:265997075572:stack/amplify-tastys-dev-223918/f2cd43e0-9780-11ed-9c17-02845d4c2702",
+      "AmplifyAppId": "d1ropqeh3uuuu6"
+    },
+    "categories": {
+      "auth": {
+        "tastys327c6cf2": {}
+      },
+      "storage": {
+        "Tastysbucket": {}
+      }
+    }
+  }
+}

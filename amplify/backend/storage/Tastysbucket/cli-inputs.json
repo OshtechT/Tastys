@@ -1,0 +1,13 @@
+{
+  "resourceName": "Tastysbucket",
+  "policyUUID": "33a47be1",
+  "bucketName": "tastysbucket",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "groupAccess": {}
+}
